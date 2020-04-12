@@ -58,7 +58,7 @@
     {
         "id": 3,
         "text": "Terminar la serie HCF",
-        "completed": false
+        "completed": true
     },
     {
         "id": 4,
