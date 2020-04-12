@@ -1,14 +1,25 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+    {
+        "id": 1,
+        "text": "Terminar el curso React",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "text": "Terminar el libro de ThinkDSP",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "text": "Terminar la serie HCF",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "text": "Empezar The Terror",
+        "completed": false
+    },
+    {
+        "id": 5,
+        "text": "Terminar la TODO-APP",
+        "completed": true
+    }
