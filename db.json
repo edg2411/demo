@@ -27,5 +27,32 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "todosData": [
+        {
+        "id": 1,
+        "text": "Terminar el curso React",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "text": "Terminar el libro de ThinkDSP",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "text": "Terminar la serie HCF",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "text": "Empezar The Terror",
+        "completed": false
+    },
+    {
+        "id": 5,
+        "text": "Terminar la TODO-APP",
+        "completed": true
+    }
+  ]
 }
