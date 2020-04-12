@@ -1,4 +1,4 @@
-    {
+{ {
         "id": 1,
         "text": "Terminar el curso React",
         "completed": false
@@ -22,4 +22,4 @@
         "id": 5,
         "text": "Terminar la TODO-APP",
         "completed": true
-    }
+    }}
