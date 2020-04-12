@@ -69,6 +69,11 @@
         "id": 5,
         "text": "Terminar la TODO-APP",
         "completed": true
+    },
+    {
+        "id": 6,
+        "text": "Esta es una tarea nueva!",
+        "completed": false
     }
   ]
 }
